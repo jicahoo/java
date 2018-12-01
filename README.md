@@ -30,4 +30,6 @@
   * Distributed infrastructures
     * ZooKeeper
     * Consul
+  * RPC/REST:
+    * Finagle
     
